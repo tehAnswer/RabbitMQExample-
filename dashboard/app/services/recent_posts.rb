@@ -1,4 +1,4 @@
-class RecentPost
+class RecentPosts
   KEY = 'recent_posts'
   STORE_LIMIT = 5
 
