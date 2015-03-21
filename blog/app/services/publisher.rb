@@ -5,7 +5,7 @@ class Publisher
   end
 
   def self.channel
-    @channel ||= connection.create_chanel
+    @channel ||= connection.create_channel
   end
 
   def self.connection
